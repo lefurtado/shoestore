@@ -1,0 +1,59 @@
+.main-logo-top {
+    margin: 9px 19px;
+}
+
+.main-navbar ul {
+    display: flex;
+    margin: 44px 39px;
+    gap: 26px;
+}
+
+.main-banner {
+    width: 100%;
+}
+
+.main-banner img {
+    width: 100%;
+}
+
+.subtitle {
+    margin-top: 68px;
+    margin-bottom: 82px;
+    text-align: center;
+}
+
+.woman-middle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.left-woman {
+    margin-right: 54px;
+}
+
+.h2-discount {
+    text-align: center;    
+    color: #FFFFFF;
+    font-weight: 800;
+    font-size: 44px;
+}
+
+.h2-discount h2 {
+    padding-top: 61px;
+}
+
+.badge h2 {
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.badge p {
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.badge {
+    margin-top: 54px;
+    margin-bottom: 99px;
+}
